@@ -57,6 +57,7 @@ h1 {
   position:relative;
   height:20vh;
   width:80%;
+  max-width:900px;
   margin:auto;
   text-align:center;
   background-color: white;
